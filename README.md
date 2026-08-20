@@ -44,12 +44,11 @@ Tableau project :https://public.tableau.com/app/profile/rod.toug/viz/youtubeanal
 
 ### 5. Content Performance
 
-**Fact:** The dashboard compares videos with captions and videos without captions across engagement rate and view count.
+Fact: Videos without captions have a higher average engagement rate (about 4.5%), while captioned videos achieve a much higher average view count (around 1.5M vs. 350K).
 
-**Insight:** Caption availability should be evaluated alongside engagement and reach rather than treated as a standalone success factor.
+Insight: Captions appear to support greater reach, but videos without captions generate stronger engagement relative to their views.
 
-**Recommendation:** Compare captioned vs. non-captioned videos using average engagement rate, average views, and total engagement to determine whether captions have a measurable effect.
-
+Recommendation: Use captions to maximize reach, while analyzing captioned content further to identify ways to maintain its higher visibility without losing engagement.
 ### 6. Video Length
 
 **Fact:** Short videos (<5 minutes) show the highest value in the length analysis, followed by medium (5–20 minutes) and long videos (20+ minutes).
