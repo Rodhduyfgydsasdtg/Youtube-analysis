@@ -4,9 +4,9 @@ Tableau project :https://public.tableau.com/app/profile/rod.toug/viz/youtubeanal
 
 ### 1. Overall Performance
 
-**Fact:** The channel analyzed 537 videos, generating **11.52B total views**, **232.85M comments**, and **3.83M likes**. The average video received **21.46M views**.
+**Fact:** The channels analyzed 537 videos, generating **11.52B total views**, **232.85M comments**, and **3.83M likes**. The average video received **21.46M views**.
 
-**Insight:** The channel has very strong reach, with a large volume of views generated across its content.
+**Insight:** The channels have very strong reach, with a large volume of views generated across its content.
 
 **Business Impact:** High visibility creates a strong opportunity to increase audience engagement and build a larger loyal audience.
 
